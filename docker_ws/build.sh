@@ -1,1 +1,1 @@
-docker build --rm -t prj:ver1 -f Dockerfile .
+docker build --rm -t prj:v1 -f Dockerfile .
